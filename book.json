@@ -1,5 +1,5 @@
 {
-  "root": "./docs",
+  "root": "./docs1",
   "plugins": [
     "edit-link",
     "theme-vuejs@git+https://github.com/pearofducks/gitbook-plugin-theme-vuejs.git",
